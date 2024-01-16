@@ -7,8 +7,10 @@ greet = "HI!!!!"
 print (greet)
 
 def WOW():
-	print (greet)
+    """
+    Print the value of the 'greet' variable.
+    """
+    print(greet)
 
 
 WOW()	
-
